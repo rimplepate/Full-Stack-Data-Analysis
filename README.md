@@ -1,60 +1,71 @@
 # E-Commerce Customer & Revenue Intelligence Dashboard
+This project presents an end-to-end data analytics solution for an e-commerce business, focusing on uncovering insights related to customer behavior, sales performance, product trends, and marketing effectiveness.
 
-Project Overview:
-This project is an end-to-end data analytics solution for an e-commerce business, designed to analyze customer behavior, product performance, sales trends, and marketing effectiveness. The goal is to provide actionable insights that can drive revenue growth, optimize marketing spend, and improve customer retention.
+Using SQL, Python, and Tableau, the analysis transforms raw transactional data into actionable insights that support data-driven decision-making and business growth.
 
-📂 Dataset
+💼 Business Problem
 
-The project uses 5 datasets:
+E-commerce businesses often struggle to:
+Identify high-value customers and improve retention
+Understand which products drive the most revenue
+Evaluate the effectiveness of marketing campaigns and ROI
+Leverage customer feedback to improve product quality and experience
 
-customers.csv – Customer demographics and segments
-orders.csv – Transaction data including order amounts, dates, and status
-products.csv – Product details including category, price, and inventory
-marketing_campaigns.csv – Marketing campaigns with budget, channel, and conversions
-customer_feedback.csv – Customer reviews and ratings
+The goal of this project is to analyze available data and provide insights to:
+👉 Increase revenue
+👉 Optimize marketing spend
+👉 Improve customer satisfaction
 
-Source: Simulated e-commerce dataset for portfolio purposes
-
-🛠 Tools & Technologies
-SQL – Data cleaning, aggregation, joins, and advanced queries
-Python (pandas, scikit-learn) – Feature engineering, RFM analysis, churn prediction
-Tableau Public – Interactive dashboards and visualizations
-GitHub – Project organization and documentation
-
-🔍 Key Analysis & Insights
-Sales Trends
-Revenue grew steadily over time with seasonal peaks
-Average order value helped identify high-spending periods
-Top Products & Categories
-Top 10 products contributed most to revenue
-Inventory optimization opportunities identified for low-performing products
-Customer Segmentation & Insights
-High-value customers (top 20%) drove a significant portion of revenue
-Retention strategies can be applied to these segments
-Marketing Campaign Performance
-Campaign ROI varies by channel, with social campaigns outperforming email campaigns
-Budget allocation can be optimized based on ROI insights
-Customer Feedback Analysis
-Products with lower ratings highlighted areas for improvement
-Positive feedback trends identified customer favorites
-
-📊 Tableau Dashboard
-Interactive dashboard published on Tableau Public
-Includes filters for time range, product category, customer segment, and campaign channel
-
-Key visualizations:
+⚙️ Methodology
+1. Data Collection & Preparation
+Imported and structured multiple datasets: customers, orders, products, campaigns, and feedback
+Performed data validation (missing values, duplicates, data types)
+2. Data Processing (SQL)
+Created joins and aggregations across multiple tables
+Built queries to analyze:
+Sales trends
+Customer behavior
+Product performance
+Campaign effectiveness
+3. Advanced Analysis (Python)
+Conducted RFM (Recency, Frequency, Monetary) analysis for customer segmentation
+Built a basic churn prediction model to identify at-risk customers
+Generated aggregated datasets for visualization
+4. Data Visualization (Tableau)
+Developed an interactive dashboard with:
+KPI metrics (Revenue, Orders, AOV)
 Sales trends over time
-Top products and revenue distribution
-Customer segmentation insights
-Marketing campaign ROI
-Customer feedback ratings
+Top products and customers
+Campaign ROI analysis
+Customer feedback insights
 
-View Dashboard Here
- – https://public.tableau.com/views/FullStackDataAnalysis/SalesTrendsOverTime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+🛠 Skills & Tools
+SQL: Data cleaning, joins, aggregations, EDA
+Python: Pandas, NumPy, Scikit-learn (RFM & churn analysis)
+Tableau: Interactive dashboards and storytelling
+Data Analysis: Customer segmentation, trend analysis, KPI tracking
+Business Thinking: Translating data into actionable insights
+
+📊 Results & Key Insights
+📈 Identified seasonal sales trends, highlighting peak revenue periods
+👤 Found that top 20% of customers contribute a significant portion of revenue
+🛍️ Discovered that a small number of products drive the majority of sales
+📣 Evaluated marketing campaigns and identified high-performing channels with better ROI
+⭐ Analyzed customer feedback to highlight low-rated products and improvement opportunities
 
 💡 Business Recommendations
-Focus marketing campaigns on high-value customer segments
-Invest in high-ROI campaign channels
-Improve low-rated products to enhance customer satisfaction
-Optimize inventory for top-performing products
-Monitor seasonal trends for better revenue forecasting
+Focus on retaining high-value customers through personalized marketing
+Allocate budget toward high-ROI marketing channels
+Improve or replace low-performing products based on customer feedback
+Optimize inventory for top-selling products
+Leverage seasonal trends for better campaign planning and forecasting
+
+🚀 Next Steps
+Incorporate real-time data pipelines for continuous monitoring
+Enhance churn prediction using advanced machine learning models
+Integrate customer journey and behavioral data for deeper insights
+Build a web-based dashboard for broader accessibility
+Perform A/B testing analysis for marketing optimization
+📊 Dashboard
+
+👉 https://public.tableau.com/views/FullStackDataAnalysis/SalesTrendsOverTime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
