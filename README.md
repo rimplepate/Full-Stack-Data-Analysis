@@ -42,6 +42,7 @@ Positive feedback trends identified customer favorites
 📊 Tableau Dashboard
 Interactive dashboard published on Tableau Public
 Includes filters for time range, product category, customer segment, and campaign channel
+
 Key visualizations:
 Sales trends over time
 Top products and revenue distribution
