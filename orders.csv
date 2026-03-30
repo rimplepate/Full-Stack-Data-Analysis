@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,order_amount,payment_type,shipping_type,order_status
+50001,1057,2024-11-05,484.1,PayPal,Express,Returned
+50002,1145,2026-01-24,76.76,Debit Card,Standard,Delivered
+50003,1112,2024-11-04,93.2,Debit Card,Standard,Delivered
+50004,1047,2024-05-05,855.37,Debit Card,Express,Delivered
+50005,1151,2024-12-09,990.35,Debit Card,Express,Delivered
+50006,1085,2025-11-14,682.53,Debit Card,Express,Delivered
+50007,1142,2025-05-24,457.04,PayPal,Standard,Returned
+50008,1066,2025-06-12,654.62,PayPal,Standard,Delivered
+50009,1075,2025-02-11,602.51,PayPal,Standard,Delivered
+50010,1179,2024-10-20,395.94,PayPal,Express,Delivered
+50011,1103,2024-06-19,84.31,Credit Card,Standard,Delivered
+50012,1166,2025-07-23,825.08,PayPal,Express,Delivered
+50013,1192,2026-02-22,384.4,Debit Card,Standard,Delivered
+50014,1038,2024-09-11,822.41,Debit Card,Express,Delivered
+50015,1050,2025-06-24,267.46,PayPal,Standard,Delivered
+50016,1098,2025-08-31,21.01,Debit Card,Standard,Delivered
+50017,1082,2024-08-15,175.76,PayPal,Standard,Returned
+50018,1030,2025-04-23,479.17,Debit Card,Express,Delivered
+50019,1079,2025-09-13,945.42,Credit Card,Express,Delivered
+50020,1091,2025-09-03,120.15,Credit Card,Standard,Delivered
+50021,1179,2025-04-08,857.13,PayPal,Standard,Delivered
+50022,1191,2025-05-25,536.48,PayPal,Standard,Delivered
+50023,1052,2024-07-02,829.4,PayPal,Express,Delivered
+50024,1166,2024-11-09,312.41,Debit Card,Standard,Delivered
+50025,1079,2024-07-20,843.15,PayPal,Standard,Delivered
+50026,1030,2025-07-20,777.37,Credit Card,Standard,Delivered
+50027,1106,2024-11-22,245.45,Debit Card,Standard,Delivered
+50028,1051,2026-01-18,148.71,PayPal,Express,Returned
+50029,1081,2024-08-04,870.69,Debit Card,Express,Delivered
+50030,1133,2024-05-19,963.97,Debit Card,Standard,Delivered
+50031,1029,2024-10-29,50.68,PayPal,Standard,Delivered
+50032,1132,2024-11-06,736.64,Debit Card,Express,Delivered
+50033,1138,2025-07-30,911.33,Credit Card,Express,Delivered
+50034,1184,2025-08-15,860.21,Credit Card,Standard,Returned
+50035,1145,2024-10-29,965.23,Debit Card,Express,Returned
+50036,1074,2024-07-29,764.89,PayPal,Express,Delivered
+50037,1017,2025-09-01,453.45,Debit Card,Standard,Returned
+50038,1084,2025-09-22,325.71,Credit Card,Express,Cancelled
+50039,1069,2025-06-23,334.33,Debit Card,Express,Returned
+50040,1034,2025-01-13,729.93,Debit Card,Standard,Returned
+50041,1006,2025-03-24,750.92,Credit Card,Standard,Delivered
+50042,1053,2025-04-14,216.35,Debit Card,Express,Delivered
+50043,1194,2025-06-26,870.76,Debit Card,Standard,Delivered
+50044,1126,2026-02-17,720.63,PayPal,Express,Delivered
+50045,1043,2024-06-26,571.5,PayPal,Standard,Cancelled
+50046,1115,2025-02-10,482.1,Credit Card,Express,Delivered
+50047,1111,2024-05-05,552.37,Credit Card,Standard,Delivered
+50048,1151,2026-02-23,176.06,Credit Card,Express,Returned
+50049,1183,2024-05-01,219.63,PayPal,Express,Returned
+50050,1080,2026-01-15,109.34,Credit Card,Express,Cancelled
+50051,1095,2024-06-26,170.58,Credit Card,Standard,Delivered
+50052,1118,2025-10-18,464.62,Credit Card,Standard,Delivered
+50053,1144,2024-04-16,539.75,PayPal,Express,Delivered
+50054,1008,2024-12-22,37.5,Debit Card,Express,Delivered
+50055,1132,2024-11-09,800.86,Credit Card,Standard,Delivered
+50056,1104,2024-08-24,308.28,Debit Card,Standard,Delivered
+50057,1132,2024-06-27,913.6,Credit Card,Standard,Delivered
+50058,1184,2024-12-25,968.16,Debit Card,Standard,Delivered
+50059,1025,2024-03-27,201.75,PayPal,Standard,Delivered
+50060,1195,2025-08-18,472.86,PayPal,Standard,Delivered
+50061,1096,2026-03-15,21.21,Credit Card,Express,Delivered
+50062,1195,2025-10-30,606.36,Debit Card,Standard,Delivered
+50063,1155,2024-12-03,615.16,PayPal,Express,Delivered
+50064,1093,2025-05-01,262.59,Credit Card,Standard,Delivered
+50065,1160,2024-07-23,567.24,Credit Card,Standard,Delivered
+50066,1178,2024-08-01,241.03,PayPal,Express,Delivered
+50067,1061,2024-08-13,177.61,PayPal,Express,Returned
+50068,1122,2025-07-07,658.49,Credit Card,Standard,Delivered
+50069,1051,2025-06-08,339.41,Debit Card,Express,Delivered
+50070,1147,2025-07-19,598.46,Debit Card,Express,Delivered
+50071,1021,2025-10-05,444.58,Debit Card,Express,Returned
+50072,1005,2025-06-17,984.66,Credit Card,Express,Delivered
+50073,1092,2025-05-17,166.59,PayPal,Standard,Delivered
+50074,1170,2025-11-03,475.31,Credit Card,Express,Cancelled
+50075,1061,2024-07-16,686.85,PayPal,Standard,Delivered
+50076,1022,2026-01-28,407.63,Debit Card,Standard,Delivered
+50077,1149,2025-04-30,975.21,Debit Card,Standard,Delivered
+50078,1070,2025-02-13,727.45,PayPal,Standard,Delivered
+50079,1001,2024-04-16,663.84,PayPal,Express,Delivered
+50080,1133,2025-12-20,761.92,Credit Card,Express,Delivered
+50081,1012,2026-03-23,953.6,Debit Card,Standard,Returned
+50082,1090,2025-06-04,909.66,Credit Card,Standard,Returned
+50083,1046,2024-12-03,729.8,Credit Card,Standard,Delivered
+50084,1034,2024-09-13,754.18,Credit Card,Standard,Delivered
+50085,1177,2024-06-29,163.0,Debit Card,Express,Delivered
+50086,1078,2025-05-18,120.74,Credit Card,Standard,Cancelled
+50087,1045,2024-04-01,579.49,Credit Card,Express,Cancelled
+50088,1155,2025-03-13,38.0,Credit Card,Standard,Delivered
+50089,1073,2024-09-23,492.71,Credit Card,Standard,Returned
+50090,1026,2024-06-20,226.14,Credit Card,Standard,Delivered
+50091,1047,2025-03-31,359.1,Credit Card,Standard,Delivered
+50092,1121,2024-05-04,780.29,Debit Card,Express,Delivered
+50093,1056,2024-07-04,942.41,Credit Card,Express,Delivered
+50094,1094,2025-05-05,90.97,PayPal,Express,Delivered
+50095,1107,2025-07-21,543.56,Credit Card,Standard,Delivered
+50096,1063,2025-11-29,884.88,Credit Card,Standard,Delivered
+50097,1048,2026-02-10,100.86,Debit Card,Express,Returned
+50098,1061,2024-10-05,828.02,Debit Card,Express,Delivered
+50099,1081,2025-09-07,370.65,PayPal,Standard,Delivered
+50100,1026,2024-05-20,335.65,PayPal,Standard,Delivered
+50101,1036,2024-10-13,977.92,Debit Card,Express,Delivered
+50102,1001,2025-04-27,216.84,Debit Card,Standard,Delivered
+50103,1008,2024-12-07,699.33,Credit Card,Standard,Delivered
+50104,1113,2024-08-10,825.01,Debit Card,Express,Delivered
+50105,1099,2025-06-21,60.36,PayPal,Standard,Delivered
+50106,1180,2025-11-24,676.98,Credit Card,Express,Delivered
+50107,1047,2024-05-03,952.52,PayPal,Standard,Delivered
+50108,1127,2025-09-04,141.74,Credit Card,Express,Delivered
+50109,1056,2025-05-03,898.3,Debit Card,Standard,Delivered
+50110,1014,2024-09-18,602.88,PayPal,Express,Delivered
+50111,1028,2025-10-28,624.27,Credit Card,Express,Returned
+50112,1078,2025-03-03,620.69,Credit Card,Express,Delivered
+50113,1130,2026-02-08,312.86,Debit Card,Express,Delivered
+50114,1109,2025-04-05,936.5,Debit Card,Standard,Delivered
+50115,1154,2024-11-24,948.4,Debit Card,Standard,Delivered
+50116,1014,2024-12-29,632.8,PayPal,Express,Delivered
+50117,1187,2025-01-25,787.75,Credit Card,Standard,Returned
+50118,1056,2025-08-15,620.01,Debit Card,Standard,Returned
+50119,1115,2025-09-12,494.71,PayPal,Standard,Cancelled
+50120,1007,2024-07-17,667.6,PayPal,Standard,Delivered
+50121,1003,2026-02-20,561.94,PayPal,Standard,Delivered
+50122,1111,2025-04-06,605.53,Debit Card,Express,Delivered
+50123,1151,2025-02-23,788.16,Debit Card,Express,Delivered
+50124,1107,2024-07-21,491.29,Credit Card,Express,Delivered
+50125,1018,2024-06-25,59.94,Credit Card,Express,Delivered
+50126,1038,2024-07-24,180.72,Debit Card,Standard,Returned
+50127,1115,2026-03-17,449.84,PayPal,Standard,Delivered
+50128,1015,2025-04-03,730.33,PayPal,Express,Delivered
+50129,1192,2025-10-15,601.41,PayPal,Standard,Delivered
+50130,1119,2024-09-19,657.29,Credit Card,Standard,Delivered
+50131,1028,2025-06-16,489.69,PayPal,Express,Delivered
+50132,1039,2026-03-21,623.43,Credit Card,Standard,Delivered
+50133,1185,2025-05-17,342.44,Credit Card,Express,Delivered
+50134,1017,2024-08-24,480.78,PayPal,Express,Delivered
+50135,1086,2024-05-06,749.39,PayPal,Standard,Returned
+50136,1126,2025-10-03,874.4,Debit Card,Standard,Returned
+50137,1044,2026-03-17,444.98,Debit Card,Express,Delivered
+50138,1025,2026-01-07,62.79,PayPal,Express,Delivered
+50139,1145,2025-03-31,178.44,Credit Card,Standard,Returned
+50140,1013,2024-06-26,40.44,Credit Card,Express,Returned
+50141,1025,2025-10-20,660.2,Credit Card,Express,Delivered
+50142,1068,2025-05-01,345.67,Credit Card,Express,Delivered
+50143,1138,2026-01-01,551.63,Credit Card,Standard,Delivered
+50144,1067,2026-02-06,503.41,Debit Card,Express,Returned
+50145,1109,2025-01-30,99.9,PayPal,Standard,Cancelled
+50146,1146,2026-02-07,415.2,Debit Card,Express,Delivered
+50147,1111,2024-10-03,236.15,Credit Card,Standard,Returned
+50148,1111,2025-10-07,430.03,Credit Card,Express,Delivered
+50149,1034,2025-05-10,219.51,Credit Card,Standard,Cancelled
+50150,1111,2024-11-25,843.64,Credit Card,Standard,Delivered
+50151,1008,2025-11-11,190.71,PayPal,Standard,Returned
+50152,1168,2025-02-14,961.56,Credit Card,Express,Delivered
+50153,1113,2025-07-09,427.59,PayPal,Express,Delivered
+50154,1083,2024-04-14,849.32,Credit Card,Express,Delivered
+50155,1042,2025-06-01,636.19,PayPal,Standard,Cancelled
+50156,1169,2025-03-19,740.64,Debit Card,Express,Returned
+50157,1101,2024-08-12,772.37,Credit Card,Standard,Returned
+50158,1006,2026-03-17,514.75,PayPal,Express,Returned
+50159,1180,2025-12-05,552.43,Debit Card,Standard,Delivered
+50160,1026,2024-07-31,523.72,Credit Card,Standard,Delivered
+50161,1064,2025-11-17,596.3,Credit Card,Standard,Delivered
+50162,1187,2024-10-10,48.81,Credit Card,Express,Delivered
+50163,1184,2024-12-18,407.6,PayPal,Express,Delivered
+50164,1059,2025-07-25,614.06,PayPal,Express,Delivered
+50165,1109,2025-07-10,605.77,Debit Card,Standard,Delivered
+50166,1198,2024-05-23,797.1,PayPal,Standard,Delivered
+50167,1121,2025-05-03,661.91,PayPal,Express,Delivered
+50168,1033,2024-08-18,992.29,Credit Card,Express,Delivered
+50169,1181,2024-06-15,298.18,Credit Card,Express,Cancelled
+50170,1150,2025-12-27,371.97,Credit Card,Standard,Delivered
+50171,1021,2025-05-11,396.17,Credit Card,Standard,Cancelled
+50172,1198,2024-06-14,476.5,Credit Card,Standard,Delivered
+50173,1070,2025-12-24,839.28,Credit Card,Standard,Delivered
+50174,1112,2024-05-09,251.08,Credit Card,Standard,Delivered
+50175,1004,2025-07-16,780.48,Debit Card,Express,Delivered
+50176,1094,2024-11-22,417.2,Debit Card,Standard,Delivered
+50177,1075,2024-05-09,609.82,Debit Card,Standard,Delivered
+50178,1190,2026-02-08,639.89,Debit Card,Standard,Delivered
+50179,1062,2024-06-12,385.39,Credit Card,Standard,Delivered
+50180,1094,2024-05-03,522.36,Debit Card,Standard,Delivered
+50181,1095,2025-04-06,424.77,Credit Card,Express,Delivered
+50182,1152,2025-01-25,87.75,Debit Card,Standard,Delivered
+50183,1055,2024-09-20,448.42,PayPal,Standard,Delivered
+50184,1137,2025-11-09,115.45,Debit Card,Standard,Returned
+50185,1131,2024-07-14,416.92,Debit Card,Express,Delivered
+50186,1031,2025-08-16,601.06,Credit Card,Express,Delivered
+50187,1040,2025-10-15,587.83,Debit Card,Express,Returned
+50188,1036,2024-06-11,669.37,PayPal,Standard,Delivered
+50189,1152,2024-11-25,113.36,Credit Card,Express,Delivered
+50190,1006,2026-01-19,659.08,Credit Card,Standard,Delivered
+50191,1066,2025-06-23,325.91,Debit Card,Standard,Delivered
+50192,1075,2026-03-20,411.07,Credit Card,Express,Delivered
+50193,1004,2025-12-08,860.83,Credit Card,Standard,Returned
+50194,1079,2025-11-08,28.85,Credit Card,Standard,Delivered
+50195,1134,2024-08-07,596.64,Credit Card,Standard,Delivered
+50196,1118,2024-06-30,606.74,Credit Card,Express,Delivered
+50197,1113,2025-11-07,408.73,Credit Card,Standard,Delivered
+50198,1094,2025-07-21,252.29,PayPal,Standard,Delivered
+50199,1179,2024-12-15,249.98,Debit Card,Express,Delivered
+50200,1062,2025-09-26,886.04,PayPal,Standard,Delivered
+50201,1185,2024-10-14,453.18,Credit Card,Standard,Delivered
+50202,1194,2024-04-02,344.27,Credit Card,Express,Delivered
+50203,1079,2024-07-22,459.8,Debit Card,Standard,Delivered
+50204,1136,2026-01-06,676.0,PayPal,Standard,Returned
+50205,1026,2026-03-10,162.84,Debit Card,Standard,Delivered
+50206,1179,2025-05-05,460.45,PayPal,Standard,Delivered
+50207,1173,2025-11-12,596.13,Credit Card,Standard,Delivered
+50208,1044,2025-05-20,949.61,Debit Card,Express,Delivered
+50209,1133,2024-03-27,267.48,Debit Card,Express,Delivered
+50210,1070,2025-02-05,372.07,Credit Card,Express,Delivered
+50211,1154,2025-12-06,391.77,Debit Card,Express,Delivered
+50212,1118,2024-04-28,613.43,PayPal,Standard,Returned
+50213,1068,2025-01-19,369.6,PayPal,Standard,Delivered
+50214,1019,2025-07-20,542.84,PayPal,Standard,Delivered
+50215,1020,2025-12-03,786.15,PayPal,Standard,Returned
+50216,1113,2024-03-26,711.28,Credit Card,Standard,Cancelled
+50217,1140,2024-06-30,457.44,Debit Card,Express,Returned
+50218,1047,2025-03-10,866.93,PayPal,Express,Delivered
+50219,1001,2026-03-17,566.98,Credit Card,Standard,Delivered
+50220,1090,2025-10-09,549.11,Debit Card,Standard,Delivered
+50221,1142,2024-05-18,53.5,Debit Card,Standard,Delivered
+50222,1064,2025-02-01,986.96,Credit Card,Express,Delivered
+50223,1038,2025-03-20,140.51,Credit Card,Standard,Delivered
+50224,1037,2026-02-24,246.51,PayPal,Standard,Returned
+50225,1126,2025-04-28,70.66,Debit Card,Standard,Delivered
+50226,1139,2025-03-08,647.2,Debit Card,Express,Returned
+50227,1100,2025-12-15,240.21,Credit Card,Standard,Delivered
+50228,1077,2025-11-15,196.41,Debit Card,Express,Delivered
+50229,1003,2024-05-06,106.78,PayPal,Express,Delivered
+50230,1161,2025-08-01,121.24,Debit Card,Express,Delivered
+50231,1134,2025-10-17,592.98,Credit Card,Express,Delivered
+50232,1178,2025-10-13,694.44,Credit Card,Express,Delivered
+50233,1010,2026-01-07,409.43,PayPal,Express,Cancelled
+50234,1005,2024-12-07,490.3,PayPal,Standard,Delivered
+50235,1151,2024-09-02,692.25,Debit Card,Standard,Delivered
+50236,1138,2026-02-12,37.03,Debit Card,Standard,Delivered
+50237,1172,2024-11-15,336.67,Credit Card,Express,Delivered
+50238,1130,2025-07-17,973.64,PayPal,Standard,Delivered
+50239,1013,2024-05-11,588.51,PayPal,Express,Delivered
+50240,1168,2026-02-19,269.14,PayPal,Express,Delivered
+50241,1130,2024-10-19,531.3,Debit Card,Express,Delivered
+50242,1084,2024-12-09,355.8,PayPal,Standard,Delivered
+50243,1065,2025-04-11,541.6,Credit Card,Express,Delivered
+50244,1063,2025-09-20,143.23,Credit Card,Express,Delivered
+50245,1101,2024-09-16,150.06,Debit Card,Standard,Delivered
+50246,1073,2024-12-30,160.67,Debit Card,Standard,Delivered
+50247,1017,2025-12-15,941.02,PayPal,Express,Delivered
+50248,1009,2024-04-19,738.24,Debit Card,Express,Delivered
+50249,1143,2025-09-12,179.13,Credit Card,Standard,Returned
+50250,1152,2024-07-06,204.58,PayPal,Standard,Delivered
+50251,1038,2024-10-06,736.21,Credit Card,Standard,Returned
+50252,1163,2025-03-30,173.04,PayPal,Express,Cancelled
+50253,1094,2024-08-26,249.87,Debit Card,Standard,Delivered
+50254,1095,2025-08-28,964.08,PayPal,Standard,Delivered
+50255,1049,2025-03-30,270.2,PayPal,Standard,Delivered
+50256,1069,2025-05-17,668.4,Credit Card,Express,Delivered
+50257,1062,2024-10-14,979.06,Credit Card,Standard,Delivered
+50258,1188,2025-10-06,386.81,PayPal,Standard,Delivered
+50259,1178,2026-02-19,37.17,Debit Card,Standard,Delivered
+50260,1078,2024-09-10,259.26,Debit Card,Standard,Returned
+50261,1117,2025-07-14,834.26,Credit Card,Standard,Delivered
+50262,1120,2024-07-15,867.32,Debit Card,Express,Delivered
+50263,1137,2024-10-12,773.15,Credit Card,Express,Delivered
+50264,1162,2025-06-13,130.85,Debit Card,Express,Delivered
+50265,1076,2026-02-24,799.6,PayPal,Standard,Delivered
+50266,1035,2025-05-19,920.3,Credit Card,Express,Returned
+50267,1001,2024-07-06,608.6,Credit Card,Express,Delivered
+50268,1040,2025-03-16,942.06,PayPal,Express,Delivered
+50269,1064,2024-05-30,830.3,Credit Card,Standard,Delivered
+50270,1150,2024-09-26,673.63,Debit Card,Standard,Returned
+50271,1060,2024-05-06,585.64,Debit Card,Express,Delivered
+50272,1064,2025-03-19,361.6,Credit Card,Express,Delivered
+50273,1093,2025-05-24,176.1,Debit Card,Standard,Delivered
+50274,1072,2025-09-17,612.85,Credit Card,Standard,Delivered
+50275,1011,2024-10-20,331.75,PayPal,Express,Delivered
+50276,1105,2024-06-01,869.11,Credit Card,Standard,Delivered
+50277,1014,2024-11-17,993.47,PayPal,Express,Delivered
+50278,1060,2024-06-08,757.38,Debit Card,Standard,Delivered
+50279,1030,2024-04-05,108.67,PayPal,Express,Returned
+50280,1035,2025-01-18,302.91,Debit Card,Express,Delivered
+50281,1165,2025-10-16,126.93,Credit Card,Standard,Delivered
+50282,1005,2026-02-26,657.5,Debit Card,Express,Delivered
+50283,1083,2025-10-17,769.89,Credit Card,Express,Delivered
+50284,1123,2025-09-08,927.16,Credit Card,Express,Returned
+50285,1078,2026-03-20,449.41,PayPal,Standard,Delivered
+50286,1154,2024-10-11,903.35,PayPal,Standard,Delivered
+50287,1062,2024-06-11,880.33,PayPal,Standard,Delivered
+50288,1132,2025-09-16,330.85,PayPal,Express,Delivered
+50289,1089,2024-03-26,871.52,Debit Card,Standard,Delivered
+50290,1042,2024-05-18,388.16,Debit Card,Express,Delivered
+50291,1089,2025-08-18,310.93,Debit Card,Express,Delivered
+50292,1146,2025-10-11,656.09,Credit Card,Standard,Cancelled
+50293,1040,2024-10-18,341.81,Debit Card,Standard,Delivered
+50294,1072,2025-01-24,637.6,Debit Card,Express,Delivered
+50295,1039,2024-10-17,617.64,Debit Card,Express,Returned
+50296,1104,2025-05-14,572.17,PayPal,Standard,Delivered
+50297,1014,2025-12-21,392.81,Debit Card,Standard,Delivered
+50298,1032,2024-11-04,557.53,Credit Card,Standard,Delivered
+50299,1179,2025-07-30,604.56,PayPal,Express,Delivered
+50300,1125,2024-07-13,554.77,Credit Card,Express,Delivered
+50301,1166,2025-12-18,455.53,Debit Card,Express,Delivered
+50302,1097,2025-04-03,34.37,PayPal,Express,Returned
+50303,1023,2025-10-04,595.32,Credit Card,Express,Delivered
+50304,1063,2024-10-11,185.08,Debit Card,Standard,Delivered
+50305,1143,2025-03-07,649.72,Credit Card,Standard,Delivered
+50306,1153,2026-02-14,764.16,Credit Card,Express,Delivered
+50307,1145,2024-05-31,510.44,Credit Card,Express,Delivered
+50308,1194,2026-01-05,551.52,Debit Card,Standard,Delivered
+50309,1053,2026-02-24,952.45,Debit Card,Standard,Returned
+50310,1104,2026-01-17,850.22,Credit Card,Standard,Delivered
+50311,1104,2025-09-17,915.95,PayPal,Standard,Delivered
+50312,1179,2025-01-28,817.49,PayPal,Express,Delivered
+50313,1039,2024-06-30,126.74,Debit Card,Standard,Delivered
+50314,1179,2026-03-24,166.01,Debit Card,Express,Delivered
+50315,1198,2024-10-22,536.09,Debit Card,Standard,Delivered
+50316,1134,2025-03-01,261.15,Debit Card,Standard,Delivered
+50317,1067,2026-01-24,487.16,Debit Card,Standard,Delivered
+50318,1135,2024-10-10,406.48,PayPal,Express,Delivered
+50319,1179,2024-04-17,558.43,Debit Card,Express,Delivered
+50320,1200,2024-11-25,751.94,Credit Card,Standard,Delivered
+50321,1042,2024-08-23,721.18,Credit Card,Express,Returned
+50322,1192,2024-08-28,530.81,PayPal,Express,Delivered
+50323,1015,2025-12-17,825.95,Credit Card,Standard,Delivered
+50324,1111,2025-09-26,442.24,PayPal,Standard,Delivered
+50325,1157,2025-06-02,898.78,PayPal,Express,Delivered
+50326,1033,2025-02-01,89.85,Credit Card,Express,Delivered
+50327,1155,2025-05-02,955.57,Debit Card,Express,Delivered
+50328,1164,2024-11-12,661.6,Credit Card,Standard,Delivered
+50329,1157,2026-03-06,392.47,Credit Card,Standard,Returned
+50330,1038,2026-02-03,213.21,PayPal,Express,Delivered
+50331,1185,2026-03-08,489.6,Credit Card,Standard,Delivered
+50332,1097,2025-07-09,210.67,PayPal,Standard,Delivered
+50333,1155,2025-10-03,183.0,Debit Card,Express,Returned
+50334,1183,2026-03-07,625.0,Debit Card,Express,Delivered
+50335,1033,2025-08-26,532.62,Debit Card,Standard,Delivered
+50336,1196,2024-09-16,676.69,Credit Card,Standard,Delivered
+50337,1086,2024-05-05,931.01,PayPal,Express,Delivered
+50338,1066,2026-02-28,541.62,Debit Card,Standard,Delivered
+50339,1010,2025-09-10,589.31,PayPal,Standard,Cancelled
+50340,1005,2025-04-10,107.83,PayPal,Express,Delivered
+50341,1123,2025-08-28,723.28,Debit Card,Express,Returned
+50342,1074,2024-12-22,411.91,Debit Card,Standard,Delivered
+50343,1097,2024-06-25,977.19,PayPal,Standard,Delivered
+50344,1118,2026-03-16,826.71,Debit Card,Standard,Delivered
+50345,1038,2024-04-28,532.03,PayPal,Express,Delivered
+50346,1141,2024-12-18,140.76,PayPal,Standard,Returned
+50347,1159,2025-09-25,862.23,Debit Card,Standard,Returned
+50348,1047,2024-06-09,803.79,Credit Card,Express,Returned
+50349,1109,2024-10-20,200.89,Debit Card,Express,Delivered
+50350,1180,2025-02-17,309.37,Credit Card,Standard,Delivered
+50351,1184,2025-04-02,797.54,PayPal,Express,Delivered
+50352,1015,2024-12-07,201.52,PayPal,Express,Cancelled
+50353,1157,2026-03-03,919.4,Credit Card,Standard,Delivered
+50354,1136,2025-03-07,436.04,PayPal,Express,Delivered
+50355,1005,2024-10-24,105.3,Credit Card,Express,Delivered
+50356,1157,2025-06-24,819.43,Credit Card,Standard,Delivered
+50357,1047,2024-12-18,386.04,PayPal,Express,Cancelled
+50358,1068,2025-10-04,535.97,Credit Card,Standard,Delivered
+50359,1076,2024-09-25,130.06,Debit Card,Standard,Delivered
+50360,1173,2024-05-15,22.53,Debit Card,Express,Delivered
+50361,1130,2026-02-01,645.23,PayPal,Express,Delivered
+50362,1155,2026-01-01,524.87,PayPal,Express,Delivered
+50363,1095,2026-02-24,601.67,Credit Card,Standard,Delivered
+50364,1115,2025-01-12,797.87,Credit Card,Express,Returned
+50365,1164,2024-10-11,653.67,Credit Card,Standard,Returned
+50366,1036,2025-12-12,191.28,Credit Card,Express,Delivered
+50367,1026,2026-03-15,373.56,Debit Card,Express,Delivered
+50368,1043,2025-03-27,907.77,Debit Card,Express,Returned
+50369,1027,2025-06-17,774.55,PayPal,Standard,Delivered
+50370,1069,2025-05-24,565.5,Credit Card,Express,Delivered
+50371,1148,2024-10-03,270.53,Credit Card,Express,Delivered
+50372,1011,2025-04-23,316.02,PayPal,Standard,Delivered
+50373,1074,2026-01-14,737.32,Credit Card,Standard,Delivered
+50374,1104,2025-04-05,854.15,Credit Card,Express,Cancelled
+50375,1038,2025-04-13,678.0,Credit Card,Express,Delivered
+50376,1134,2025-12-30,813.34,Credit Card,Express,Delivered
+50377,1200,2024-11-11,771.32,Credit Card,Standard,Delivered
+50378,1023,2024-05-13,166.71,PayPal,Standard,Delivered
+50379,1047,2025-05-11,435.47,Credit Card,Standard,Delivered
+50380,1090,2024-06-07,169.92,PayPal,Standard,Delivered
+50381,1046,2026-03-18,250.53,Credit Card,Express,Delivered
+50382,1107,2026-03-04,871.87,Debit Card,Standard,Delivered
+50383,1140,2026-02-04,483.43,Debit Card,Standard,Returned
+50384,1141,2025-09-28,544.65,Debit Card,Standard,Returned
+50385,1104,2024-06-22,194.88,Debit Card,Express,Delivered
+50386,1190,2025-05-18,326.03,PayPal,Express,Delivered
+50387,1111,2025-08-05,245.64,PayPal,Standard,Delivered
+50388,1104,2025-01-21,222.06,Credit Card,Standard,Delivered
+50389,1060,2025-06-09,645.2,Debit Card,Express,Delivered
+50390,1171,2025-09-24,271.75,PayPal,Express,Delivered
+50391,1100,2024-12-08,639.38,Credit Card,Express,Delivered
+50392,1068,2025-02-07,77.29,Credit Card,Express,Returned
+50393,1133,2024-07-15,158.94,PayPal,Express,Returned
+50394,1120,2025-06-19,289.05,Debit Card,Express,Returned
+50395,1037,2024-11-16,605.11,Credit Card,Express,Delivered
+50396,1072,2025-04-01,682.32,Debit Card,Express,Delivered
+50397,1127,2025-10-10,453.86,Debit Card,Standard,Delivered
+50398,1106,2025-07-04,456.88,Debit Card,Standard,Delivered
+50399,1092,2024-11-11,730.03,Credit Card,Standard,Delivered
+50400,1031,2025-01-03,35.5,Debit Card,Standard,Delivered
+50401,1122,2025-04-04,354.27,Credit Card,Standard,Delivered
+50402,1137,2026-03-24,822.33,Debit Card,Standard,Returned
+50403,1051,2025-11-05,611.16,Credit Card,Express,Delivered
+50404,1029,2026-01-31,350.48,Debit Card,Express,Delivered
+50405,1040,2025-04-28,907.41,PayPal,Standard,Delivered
+50406,1041,2024-03-28,777.17,Debit Card,Standard,Delivered
+50407,1011,2024-11-13,279.6,Debit Card,Express,Delivered
+50408,1151,2025-04-20,652.38,Credit Card,Express,Delivered
+50409,1001,2024-08-27,603.84,Credit Card,Express,Delivered
+50410,1046,2025-12-06,413.16,Debit Card,Standard,Delivered
+50411,1101,2026-01-15,379.62,PayPal,Express,Delivered
+50412,1149,2026-01-08,356.69,PayPal,Standard,Delivered
+50413,1090,2025-04-02,624.81,Credit Card,Standard,Delivered
+50414,1110,2025-07-20,453.56,PayPal,Express,Returned
+50415,1164,2025-01-19,835.23,Debit Card,Express,Delivered
+50416,1182,2025-04-16,676.21,Credit Card,Standard,Delivered
+50417,1057,2025-12-30,88.53,Debit Card,Express,Delivered
+50418,1001,2024-11-06,647.36,Credit Card,Express,Returned
+50419,1063,2024-10-31,285.72,Credit Card,Standard,Returned
+50420,1182,2025-01-13,600.96,Credit Card,Express,Delivered
+50421,1055,2025-09-07,686.53,Credit Card,Standard,Delivered
+50422,1115,2025-01-24,246.21,PayPal,Standard,Returned
+50423,1168,2024-11-17,467.72,Debit Card,Express,Delivered
+50424,1143,2024-04-26,206.52,Debit Card,Standard,Delivered
+50425,1149,2025-04-17,71.29,Debit Card,Standard,Delivered
+50426,1175,2025-01-01,390.91,Credit Card,Express,Returned
+50427,1053,2024-06-28,375.69,PayPal,Express,Returned
+50428,1137,2024-11-18,995.57,Debit Card,Express,Delivered
+50429,1180,2024-12-26,457.43,PayPal,Standard,Delivered
+50430,1057,2024-07-21,346.9,Credit Card,Standard,Delivered
+50431,1117,2025-10-24,588.87,Debit Card,Express,Delivered
+50432,1154,2025-10-09,106.99,PayPal,Standard,Cancelled
+50433,1169,2025-05-02,962.43,Credit Card,Express,Delivered
+50434,1035,2026-02-14,642.26,PayPal,Express,Delivered
+50435,1063,2024-12-31,759.74,Debit Card,Standard,Delivered
+50436,1025,2025-02-06,187.07,Debit Card,Express,Delivered
+50437,1090,2025-07-13,421.29,Credit Card,Standard,Delivered
+50438,1075,2025-12-03,434.24,Credit Card,Standard,Delivered
+50439,1038,2025-05-29,825.37,Credit Card,Express,Delivered
+50440,1130,2025-09-25,21.21,PayPal,Standard,Delivered
+50441,1135,2025-06-26,314.84,PayPal,Express,Delivered
+50442,1162,2025-07-24,981.61,PayPal,Standard,Delivered
+50443,1091,2025-02-15,485.39,Credit Card,Standard,Delivered
+50444,1017,2024-12-03,394.88,Debit Card,Standard,Returned
+50445,1128,2025-06-19,137.43,Debit Card,Express,Returned
+50446,1171,2024-07-07,974.68,PayPal,Standard,Cancelled
+50447,1187,2025-06-07,39.63,PayPal,Express,Delivered
+50448,1108,2025-05-27,742.44,Debit Card,Standard,Cancelled
+50449,1179,2025-04-17,773.23,Debit Card,Standard,Delivered
+50450,1182,2025-01-29,258.78,PayPal,Express,Delivered
+50451,1152,2025-12-30,678.13,PayPal,Express,Delivered
+50452,1025,2024-06-29,111.07,Debit Card,Express,Delivered
+50453,1199,2024-07-07,271.91,Credit Card,Express,Delivered
+50454,1180,2025-07-10,792.14,PayPal,Express,Delivered
+50455,1198,2024-05-27,867.39,Debit Card,Standard,Delivered
+50456,1088,2025-04-22,616.32,Debit Card,Standard,Delivered
+50457,1161,2024-09-17,516.7,Debit Card,Express,Delivered
+50458,1177,2024-12-14,176.12,Debit Card,Standard,Delivered
+50459,1029,2025-09-12,81.85,Credit Card,Standard,Delivered
+50460,1063,2025-01-21,135.3,Debit Card,Standard,Returned
+50461,1150,2025-12-06,242.81,PayPal,Express,Returned
+50462,1154,2024-12-26,354.84,Credit Card,Standard,Delivered
+50463,1156,2026-03-24,393.29,Debit Card,Standard,Delivered
+50464,1114,2025-06-06,359.4,Credit Card,Standard,Delivered
+50465,1049,2024-11-20,254.27,PayPal,Express,Returned
+50466,1199,2025-07-26,519.53,Debit Card,Standard,Delivered
+50467,1081,2024-06-01,828.78,PayPal,Standard,Delivered
+50468,1084,2025-07-04,294.11,Debit Card,Express,Delivered
+50469,1105,2025-05-19,943.54,Debit Card,Express,Delivered
+50470,1177,2025-10-27,875.87,Debit Card,Standard,Delivered
+50471,1148,2025-12-04,178.53,Debit Card,Standard,Returned
+50472,1118,2024-05-09,790.55,Debit Card,Express,Delivered
+50473,1086,2025-05-20,583.1,Credit Card,Express,Delivered
+50474,1063,2025-05-03,575.24,Debit Card,Express,Returned
+50475,1189,2025-04-27,403.22,Debit Card,Express,Returned
+50476,1104,2024-07-20,511.13,Credit Card,Express,Delivered
+50477,1049,2025-12-25,409.24,Credit Card,Express,Delivered
+50478,1071,2024-11-06,548.94,Credit Card,Express,Delivered
+50479,1001,2024-07-27,635.39,Credit Card,Standard,Returned
+50480,1141,2026-02-02,680.82,Credit Card,Express,Delivered
+50481,1179,2025-07-01,541.83,Credit Card,Express,Returned
+50482,1123,2025-08-02,726.99,Debit Card,Standard,Delivered
+50483,1184,2025-07-23,158.45,Debit Card,Express,Delivered
+50484,1062,2025-03-06,227.74,PayPal,Express,Delivered
+50485,1032,2025-11-10,822.36,Debit Card,Standard,Delivered
+50486,1158,2025-12-19,336.08,Debit Card,Express,Delivered
+50487,1029,2024-10-14,42.44,Credit Card,Standard,Delivered
+50488,1049,2024-07-11,170.72,Credit Card,Standard,Delivered
+50489,1173,2025-07-20,239.14,Debit Card,Standard,Cancelled
+50490,1030,2025-09-21,958.18,PayPal,Standard,Delivered
+50491,1144,2025-10-20,581.58,Credit Card,Express,Delivered
+50492,1168,2024-12-11,934.08,Debit Card,Standard,Delivered
+50493,1019,2024-05-14,583.66,Debit Card,Standard,Delivered
+50494,1018,2024-10-08,489.77,PayPal,Express,Delivered
+50495,1001,2025-02-02,327.45,PayPal,Standard,Delivered
+50496,1078,2026-01-26,614.24,Credit Card,Standard,Returned
+50497,1115,2025-11-01,156.41,PayPal,Standard,Delivered
+50498,1175,2026-03-15,900.3,Debit Card,Standard,Delivered
+50499,1194,2024-09-18,832.75,Debit Card,Express,Delivered
+50500,1113,2025-01-02,331.18,PayPal,Standard,Delivered
+50501,1114,2025-06-05,953.74,PayPal,Express,Delivered
+50502,1166,2024-04-03,828.7,PayPal,Express,Returned
+50503,1179,2024-10-13,672.98,PayPal,Standard,Returned
+50504,1063,2024-10-18,139.33,Credit Card,Standard,Delivered
+50505,1132,2026-01-18,488.67,PayPal,Standard,Delivered
+50506,1129,2025-03-22,515.99,Credit Card,Standard,Delivered
+50507,1008,2025-05-30,247.9,Debit Card,Express,Delivered
+50508,1157,2024-09-29,98.37,PayPal,Express,Delivered
+50509,1055,2024-09-02,781.19,Credit Card,Express,Delivered
+50510,1103,2024-08-06,139.59,PayPal,Standard,Delivered
+50511,1131,2025-10-12,602.4,Debit Card,Express,Delivered
+50512,1032,2025-03-27,937.72,Debit Card,Standard,Delivered
+50513,1010,2024-05-03,878.58,Debit Card,Standard,Delivered
+50514,1110,2024-04-08,292.2,PayPal,Standard,Delivered
+50515,1162,2024-11-02,854.42,PayPal,Standard,Delivered
+50516,1124,2025-07-01,20.33,Credit Card,Standard,Returned
+50517,1087,2025-10-05,37.33,Debit Card,Express,Delivered
+50518,1055,2024-05-01,610.5,PayPal,Express,Delivered
+50519,1032,2025-02-27,377.5,Debit Card,Standard,Delivered
+50520,1178,2024-09-26,398.73,Debit Card,Express,Returned
+50521,1135,2025-06-14,573.15,Credit Card,Standard,Delivered
+50522,1093,2024-06-24,207.95,Credit Card,Standard,Delivered
+50523,1008,2025-04-22,227.52,Credit Card,Standard,Delivered
+50524,1065,2025-11-05,494.91,Credit Card,Express,Delivered
+50525,1057,2025-09-07,759.17,Debit Card,Standard,Cancelled
+50526,1067,2024-07-22,627.11,Credit Card,Standard,Delivered
+50527,1187,2025-07-28,311.41,Credit Card,Express,Returned
+50528,1072,2024-12-31,441.73,Credit Card,Express,Returned
+50529,1054,2025-11-15,187.25,Credit Card,Express,Returned
+50530,1067,2025-08-27,93.14,Debit Card,Standard,Delivered
+50531,1051,2024-12-30,787.04,Credit Card,Standard,Delivered
+50532,1097,2024-07-29,280.08,Debit Card,Express,Delivered
+50533,1092,2026-01-03,194.21,PayPal,Standard,Delivered
+50534,1008,2025-08-17,697.79,Debit Card,Express,Delivered
+50535,1162,2025-03-24,625.69,Debit Card,Express,Delivered
+50536,1035,2024-07-01,640.53,Credit Card,Standard,Delivered
+50537,1096,2025-08-07,244.32,PayPal,Standard,Delivered
+50538,1088,2025-03-09,247.99,PayPal,Express,Returned
+50539,1078,2024-10-20,236.39,PayPal,Express,Delivered
+50540,1032,2025-01-12,190.28,PayPal,Express,Returned
+50541,1120,2024-07-20,662.61,Debit Card,Express,Delivered
+50542,1046,2026-03-09,851.06,PayPal,Standard,Returned
+50543,1144,2024-06-08,729.83,Debit Card,Express,Delivered
+50544,1196,2024-06-23,796.25,Debit Card,Express,Delivered
+50545,1165,2025-03-03,416.7,Debit Card,Express,Returned
+50546,1182,2026-01-23,660.99,PayPal,Standard,Delivered
+50547,1142,2024-10-21,367.15,Credit Card,Standard,Returned
+50548,1055,2024-08-13,534.99,Credit Card,Express,Delivered
+50549,1176,2025-05-14,492.0,PayPal,Standard,Delivered
+50550,1007,2024-04-16,193.35,Credit Card,Standard,Delivered
+50551,1074,2026-01-09,399.34,Credit Card,Standard,Delivered
+50552,1007,2024-08-22,964.55,Debit Card,Express,Delivered
+50553,1161,2026-03-02,263.61,Debit Card,Express,Delivered
+50554,1151,2026-01-14,151.13,PayPal,Standard,Delivered
+50555,1085,2024-11-26,430.21,PayPal,Express,Delivered
+50556,1147,2024-08-30,794.53,Credit Card,Express,Cancelled
+50557,1112,2024-08-12,590.51,Debit Card,Standard,Cancelled
+50558,1125,2025-04-01,687.36,PayPal,Standard,Delivered
+50559,1147,2025-03-12,205.9,PayPal,Express,Delivered
+50560,1036,2025-11-11,626.57,PayPal,Standard,Delivered
+50561,1029,2025-08-22,337.03,PayPal,Express,Delivered
+50562,1188,2024-07-11,837.62,PayPal,Express,Returned
+50563,1082,2025-03-06,636.71,PayPal,Standard,Returned
+50564,1002,2025-11-02,214.88,Credit Card,Express,Delivered
+50565,1129,2025-01-31,83.32,Debit Card,Express,Delivered
+50566,1047,2025-05-02,61.78,Debit Card,Standard,Delivered
+50567,1197,2025-10-20,383.98,PayPal,Standard,Cancelled
+50568,1148,2026-02-11,280.53,Debit Card,Standard,Delivered
+50569,1011,2025-02-14,653.17,Debit Card,Express,Delivered
+50570,1130,2024-06-29,509.35,Debit Card,Standard,Delivered
+50571,1195,2025-07-14,280.7,PayPal,Standard,Delivered
+50572,1119,2025-07-30,166.25,PayPal,Standard,Delivered
+50573,1140,2025-12-08,144.66,Debit Card,Standard,Returned
+50574,1020,2024-10-25,867.37,Debit Card,Express,Delivered
+50575,1005,2026-02-23,258.61,PayPal,Express,Delivered
+50576,1037,2025-02-22,658.68,Credit Card,Standard,Delivered
+50577,1166,2025-05-25,814.47,Debit Card,Express,Delivered
+50578,1137,2024-09-15,621.8,Credit Card,Standard,Delivered
+50579,1053,2025-03-27,862.37,Debit Card,Standard,Delivered
+50580,1172,2024-12-28,404.55,Credit Card,Express,Delivered
+50581,1099,2024-12-13,957.1,Credit Card,Express,Delivered
+50582,1086,2024-09-17,150.48,Credit Card,Standard,Delivered
+50583,1108,2025-01-20,120.11,PayPal,Standard,Delivered
+50584,1024,2024-09-18,665.52,Credit Card,Express,Returned
+50585,1081,2025-06-21,943.97,Credit Card,Standard,Delivered
+50586,1158,2025-12-25,812.71,Credit Card,Express,Delivered
+50587,1120,2024-08-07,94.89,Debit Card,Standard,Delivered
+50588,1059,2026-03-13,293.78,Credit Card,Standard,Delivered
+50589,1128,2025-11-22,931.71,Debit Card,Express,Delivered
+50590,1114,2025-06-28,268.0,Credit Card,Express,Delivered
+50591,1115,2025-12-29,785.55,Credit Card,Express,Delivered
+50592,1014,2025-05-27,828.63,PayPal,Express,Delivered
+50593,1009,2024-04-14,505.54,Debit Card,Express,Delivered
+50594,1040,2025-07-16,398.62,Credit Card,Express,Returned
+50595,1194,2024-06-22,461.12,Debit Card,Express,Cancelled
+50596,1025,2024-08-24,242.43,Debit Card,Standard,Delivered
+50597,1103,2025-10-23,891.6,PayPal,Standard,Delivered
+50598,1022,2024-11-18,461.61,PayPal,Standard,Returned
+50599,1004,2025-06-03,884.81,PayPal,Express,Returned
+50600,1154,2024-05-15,123.58,PayPal,Express,Delivered
+50601,1186,2024-09-14,988.51,PayPal,Express,Delivered
+50602,1029,2026-01-17,454.41,PayPal,Standard,Delivered
+50603,1109,2025-01-25,66.87,PayPal,Express,Delivered
+50604,1098,2025-08-23,57.26,PayPal,Express,Delivered
+50605,1037,2025-02-24,751.28,Credit Card,Standard,Delivered
+50606,1075,2026-01-07,665.85,Debit Card,Express,Delivered
+50607,1070,2025-09-14,806.09,PayPal,Standard,Delivered
+50608,1146,2024-08-15,123.26,PayPal,Standard,Delivered
+50609,1128,2025-11-12,54.86,Debit Card,Express,Delivered
+50610,1085,2026-03-25,518.41,Credit Card,Express,Delivered
+50611,1042,2025-09-03,399.84,Debit Card,Express,Delivered
+50612,1100,2025-04-21,472.71,Debit Card,Standard,Delivered
+50613,1041,2024-08-17,991.76,PayPal,Standard,Cancelled
+50614,1166,2025-01-11,971.33,Debit Card,Standard,Delivered
+50615,1034,2024-08-14,943.47,Debit Card,Express,Delivered
+50616,1017,2025-10-12,788.17,PayPal,Express,Delivered
+50617,1165,2024-07-04,367.74,PayPal,Express,Delivered
+50618,1153,2025-08-01,423.89,PayPal,Express,Returned
+50619,1122,2024-04-16,558.62,PayPal,Standard,Delivered
+50620,1076,2024-12-16,833.92,Debit Card,Standard,Delivered
+50621,1087,2025-09-01,87.34,Debit Card,Standard,Delivered
+50622,1117,2025-11-01,435.81,Credit Card,Standard,Delivered
+50623,1106,2025-10-24,100.97,Credit Card,Express,Returned
+50624,1086,2025-11-16,524.36,Debit Card,Express,Returned
+50625,1027,2025-05-21,900.92,Credit Card,Express,Delivered
+50626,1057,2025-05-02,786.84,Debit Card,Standard,Delivered
+50627,1031,2024-10-07,243.29,Credit Card,Standard,Returned
+50628,1134,2024-05-12,976.47,PayPal,Express,Returned
+50629,1168,2024-08-01,674.0,Credit Card,Express,Delivered
+50630,1098,2025-12-03,30.22,PayPal,Standard,Delivered
+50631,1012,2025-01-30,270.31,PayPal,Express,Delivered
+50632,1053,2025-09-25,275.5,PayPal,Standard,Returned
+50633,1199,2026-02-02,87.87,PayPal,Standard,Delivered
+50634,1138,2025-08-02,960.63,Credit Card,Standard,Delivered
+50635,1173,2024-07-28,488.69,Debit Card,Express,Delivered
+50636,1145,2024-06-30,897.9,PayPal,Express,Delivered
+50637,1154,2026-02-12,335.77,Credit Card,Standard,Delivered
+50638,1190,2025-09-04,142.73,PayPal,Express,Delivered
+50639,1122,2025-09-30,484.85,Credit Card,Standard,Delivered
+50640,1046,2024-05-21,131.68,Credit Card,Standard,Delivered
+50641,1064,2025-10-13,496.3,Credit Card,Standard,Delivered
+50642,1130,2026-01-30,921.89,Debit Card,Standard,Delivered
+50643,1054,2024-05-09,530.35,Credit Card,Express,Delivered
+50644,1107,2024-09-15,624.17,Credit Card,Standard,Returned
+50645,1193,2025-09-28,173.51,Debit Card,Standard,Delivered
+50646,1051,2024-10-04,62.86,Debit Card,Express,Delivered
+50647,1181,2025-02-17,128.59,Credit Card,Standard,Delivered
+50648,1036,2025-06-12,606.56,Debit Card,Standard,Delivered
+50649,1115,2024-05-12,113.11,PayPal,Express,Delivered
+50650,1026,2026-03-08,388.47,PayPal,Express,Delivered
+50651,1029,2025-05-08,559.09,Debit Card,Express,Delivered
+50652,1149,2025-06-11,400.88,Debit Card,Standard,Delivered
+50653,1011,2026-01-15,180.41,Credit Card,Express,Delivered
+50654,1040,2024-07-02,288.32,Debit Card,Express,Delivered
+50655,1011,2024-09-17,929.75,Credit Card,Standard,Delivered
+50656,1164,2025-01-30,682.46,PayPal,Standard,Delivered
+50657,1113,2024-10-13,506.13,Debit Card,Standard,Delivered
+50658,1187,2025-03-06,32.46,Credit Card,Standard,Delivered
+50659,1039,2024-11-16,992.57,Credit Card,Standard,Returned
+50660,1054,2026-01-28,678.03,PayPal,Express,Returned
+50661,1098,2025-12-14,330.58,Debit Card,Express,Delivered
+50662,1055,2024-08-23,881.68,PayPal,Express,Delivered
+50663,1111,2025-10-11,273.26,Credit Card,Standard,Delivered
+50664,1152,2025-08-16,553.14,Credit Card,Standard,Delivered
+50665,1150,2025-06-04,643.35,Debit Card,Standard,Delivered
+50666,1069,2025-10-18,236.64,Credit Card,Express,Returned
+50667,1056,2025-05-12,978.83,Debit Card,Express,Delivered
+50668,1033,2025-02-15,753.23,PayPal,Standard,Returned
+50669,1036,2025-11-13,566.66,Debit Card,Express,Delivered
+50670,1148,2025-04-25,196.98,Debit Card,Standard,Delivered
+50671,1081,2025-07-01,72.78,Credit Card,Express,Delivered
+50672,1190,2024-03-27,333.66,Credit Card,Express,Delivered
+50673,1109,2024-05-29,758.12,Debit Card,Express,Delivered
+50674,1154,2024-06-30,283.94,Credit Card,Standard,Delivered
+50675,1194,2024-08-23,548.77,Credit Card,Express,Delivered
+50676,1073,2025-01-29,733.39,Credit Card,Express,Cancelled
+50677,1040,2025-04-05,125.78,Debit Card,Standard,Delivered
+50678,1017,2025-05-14,691.59,Credit Card,Express,Cancelled
+50679,1129,2024-05-03,110.03,Debit Card,Standard,Cancelled
+50680,1061,2026-01-22,965.83,Credit Card,Standard,Delivered
+50681,1171,2025-06-07,498.63,PayPal,Standard,Delivered
+50682,1104,2025-04-02,167.66,Credit Card,Standard,Delivered
+50683,1042,2024-05-25,355.54,Credit Card,Standard,Returned
+50684,1025,2024-12-06,425.15,Debit Card,Express,Delivered
+50685,1039,2025-04-14,763.02,Debit Card,Standard,Delivered
+50686,1035,2025-02-18,748.56,Credit Card,Standard,Delivered
+50687,1131,2024-11-15,619.7,PayPal,Standard,Delivered
+50688,1108,2025-09-26,123.81,Credit Card,Standard,Delivered
+50689,1172,2026-03-26,168.54,Credit Card,Express,Delivered
+50690,1179,2024-04-22,111.88,PayPal,Standard,Delivered
+50691,1102,2024-07-02,585.63,Debit Card,Express,Returned
+50692,1098,2024-09-13,879.6,Credit Card,Standard,Delivered
+50693,1012,2024-11-11,445.12,Debit Card,Express,Returned
+50694,1019,2024-07-21,177.63,Debit Card,Standard,Delivered
+50695,1101,2024-12-20,566.88,PayPal,Standard,Returned
+50696,1044,2025-09-11,815.52,PayPal,Express,Delivered
+50697,1187,2024-06-22,746.88,Debit Card,Standard,Delivered
+50698,1049,2026-01-01,883.82,Credit Card,Express,Delivered
+50699,1189,2025-08-18,292.34,Debit Card,Standard,Returned
+50700,1017,2024-11-19,210.07,Credit Card,Express,Delivered
+50701,1074,2025-06-04,882.22,Credit Card,Standard,Returned
+50702,1057,2025-08-30,664.41,PayPal,Standard,Cancelled
+50703,1055,2025-12-13,324.71,Credit Card,Express,Delivered
+50704,1047,2024-11-01,747.5,Credit Card,Standard,Delivered
+50705,1012,2025-08-02,818.82,Debit Card,Standard,Delivered
+50706,1062,2024-09-28,622.68,PayPal,Standard,Delivered
+50707,1080,2024-08-10,694.13,Credit Card,Standard,Returned
+50708,1083,2025-09-15,387.75,Credit Card,Standard,Delivered
+50709,1008,2025-12-24,547.92,PayPal,Standard,Delivered
+50710,1149,2026-02-27,533.68,Debit Card,Express,Cancelled
+50711,1081,2024-07-13,851.09,PayPal,Express,Delivered
+50712,1118,2024-08-19,843.16,PayPal,Express,Returned
+50713,1198,2025-05-19,836.03,Credit Card,Standard,Delivered
+50714,1200,2024-05-27,30.81,Credit Card,Express,Delivered
+50715,1025,2024-12-13,754.55,Debit Card,Standard,Delivered
+50716,1089,2025-02-20,763.5,Credit Card,Standard,Delivered
+50717,1012,2025-11-09,684.81,Credit Card,Standard,Delivered
+50718,1143,2025-12-24,761.14,PayPal,Standard,Delivered
+50719,1059,2026-03-21,845.13,Credit Card,Express,Delivered
+50720,1154,2024-11-10,480.91,Debit Card,Standard,Delivered
+50721,1109,2025-09-04,512.01,PayPal,Express,Delivered
+50722,1026,2025-04-26,142.22,Debit Card,Standard,Delivered
+50723,1047,2025-05-31,397.67,PayPal,Express,Delivered
+50724,1032,2025-02-02,650.5,Credit Card,Express,Delivered
+50725,1010,2024-06-23,784.79,PayPal,Express,Delivered
+50726,1016,2024-06-22,232.86,PayPal,Express,Delivered
+50727,1199,2026-02-05,155.07,Credit Card,Express,Delivered
+50728,1145,2024-04-13,669.78,Credit Card,Express,Delivered
+50729,1151,2025-12-08,21.84,Debit Card,Standard,Delivered
+50730,1026,2025-02-19,194.81,Debit Card,Express,Delivered
+50731,1086,2024-07-22,48.49,Credit Card,Standard,Returned
+50732,1135,2024-07-18,183.55,Credit Card,Express,Delivered
+50733,1014,2025-05-07,197.69,Credit Card,Standard,Delivered
+50734,1079,2025-06-09,399.92,PayPal,Express,Delivered
+50735,1117,2025-11-15,414.28,PayPal,Express,Delivered
+50736,1007,2025-04-26,876.78,PayPal,Standard,Returned
+50737,1137,2026-01-24,519.91,Credit Card,Express,Delivered
+50738,1115,2025-05-03,728.94,Debit Card,Express,Delivered
+50739,1176,2026-01-03,122.05,Credit Card,Express,Delivered
+50740,1072,2025-07-02,240.93,PayPal,Standard,Delivered
+50741,1059,2025-11-21,708.88,PayPal,Express,Delivered
+50742,1082,2025-11-10,71.75,Credit Card,Standard,Delivered
+50743,1116,2025-03-23,496.87,Credit Card,Express,Delivered
+50744,1167,2024-05-19,607.38,PayPal,Express,Delivered
+50745,1146,2025-07-12,610.1,PayPal,Standard,Delivered
+50746,1187,2025-01-10,42.47,PayPal,Express,Delivered
+50747,1103,2024-06-14,335.67,Credit Card,Express,Delivered
+50748,1017,2024-08-22,643.76,PayPal,Standard,Delivered
+50749,1014,2025-09-02,166.02,PayPal,Express,Cancelled
+50750,1159,2025-11-03,701.51,Debit Card,Standard,Delivered
+50751,1152,2025-11-23,751.01,Credit Card,Standard,Returned
+50752,1108,2024-07-16,982.33,Debit Card,Standard,Delivered
+50753,1188,2025-07-05,225.65,Debit Card,Express,Delivered
+50754,1045,2025-04-15,828.63,PayPal,Standard,Delivered
+50755,1098,2025-01-19,529.89,Credit Card,Standard,Delivered
+50756,1131,2024-12-04,385.99,PayPal,Express,Delivered
+50757,1037,2025-01-05,139.93,Credit Card,Standard,Delivered
+50758,1171,2024-12-24,740.8,Debit Card,Express,Delivered
+50759,1168,2024-10-11,251.14,Credit Card,Express,Returned
+50760,1183,2024-08-30,383.99,PayPal,Express,Delivered
+50761,1108,2025-02-24,81.29,PayPal,Express,Delivered
+50762,1039,2024-05-01,805.34,PayPal,Standard,Delivered
+50763,1015,2025-11-10,771.26,Credit Card,Standard,Delivered
+50764,1120,2025-06-25,738.94,Debit Card,Standard,Delivered
+50765,1004,2025-01-09,313.45,Debit Card,Standard,Delivered
+50766,1093,2024-11-25,190.01,Credit Card,Standard,Returned
+50767,1153,2025-09-28,644.8,PayPal,Express,Delivered
+50768,1141,2024-07-27,506.24,Debit Card,Standard,Delivered
+50769,1161,2024-03-29,194.69,PayPal,Standard,Delivered
+50770,1016,2024-07-22,692.19,Credit Card,Standard,Returned
+50771,1170,2025-03-24,991.3,PayPal,Express,Delivered
+50772,1108,2024-09-02,752.28,Debit Card,Express,Delivered
+50773,1126,2024-12-08,745.19,Debit Card,Standard,Delivered
+50774,1194,2026-03-26,951.31,PayPal,Express,Delivered
+50775,1055,2025-02-03,218.88,Credit Card,Standard,Delivered
+50776,1170,2024-09-10,574.24,PayPal,Standard,Delivered
+50777,1034,2024-05-27,980.05,Credit Card,Express,Delivered
+50778,1158,2024-11-15,181.99,PayPal,Express,Delivered
+50779,1013,2025-08-15,706.25,Debit Card,Standard,Delivered
+50780,1141,2025-05-26,594.09,Credit Card,Standard,Delivered
+50781,1018,2024-07-13,594.75,Credit Card,Express,Delivered
+50782,1160,2024-10-03,703.72,Credit Card,Standard,Delivered
+50783,1096,2024-07-19,931.02,Debit Card,Express,Delivered
+50784,1123,2025-12-24,786.93,PayPal,Standard,Delivered
+50785,1039,2025-06-04,75.01,Debit Card,Express,Delivered
+50786,1046,2025-09-15,855.67,Credit Card,Standard,Returned
+50787,1029,2024-10-25,241.03,PayPal,Standard,Returned
+50788,1190,2026-03-18,389.38,Debit Card,Express,Delivered
+50789,1062,2026-02-26,472.5,Credit Card,Standard,Delivered
+50790,1185,2025-11-21,491.29,Credit Card,Standard,Delivered
+50791,1016,2025-08-20,446.48,Debit Card,Express,Delivered
+50792,1184,2025-07-29,938.61,Debit Card,Standard,Delivered
+50793,1121,2026-01-24,711.9,Debit Card,Standard,Delivered
+50794,1010,2025-04-12,638.55,Credit Card,Standard,Delivered
+50795,1158,2024-07-30,68.85,Debit Card,Express,Delivered
+50796,1153,2025-10-31,905.84,Credit Card,Express,Delivered
+50797,1103,2025-01-09,911.2,Debit Card,Express,Delivered
+50798,1084,2025-05-09,784.61,Credit Card,Standard,Delivered
+50799,1133,2024-04-14,26.89,Credit Card,Standard,Delivered
+50800,1065,2024-10-19,76.13,PayPal,Standard,Returned
+50801,1177,2025-05-31,240.72,Debit Card,Standard,Cancelled
+50802,1003,2025-03-04,148.72,Debit Card,Express,Delivered
+50803,1173,2025-01-21,410.86,Credit Card,Standard,Delivered
+50804,1142,2024-06-19,924.17,Credit Card,Standard,Delivered
+50805,1120,2024-10-05,482.62,Credit Card,Standard,Delivered
+50806,1158,2024-09-24,33.13,PayPal,Express,Delivered
+50807,1068,2025-01-20,297.09,PayPal,Standard,Delivered
+50808,1146,2025-10-25,63.7,Credit Card,Standard,Delivered
+50809,1190,2024-09-18,55.56,Debit Card,Standard,Delivered
+50810,1037,2025-03-18,290.21,Debit Card,Standard,Delivered
+50811,1153,2025-10-18,290.1,PayPal,Standard,Delivered
+50812,1176,2024-12-02,791.38,PayPal,Express,Delivered
+50813,1193,2025-04-01,975.34,Credit Card,Standard,Delivered
+50814,1181,2024-12-16,383.78,Debit Card,Standard,Cancelled
+50815,1073,2024-11-24,440.31,Credit Card,Standard,Delivered
+50816,1143,2024-11-16,847.89,PayPal,Standard,Delivered
+50817,1049,2024-04-05,282.78,Debit Card,Standard,Returned
+50818,1121,2024-05-17,173.25,Debit Card,Standard,Cancelled
+50819,1088,2025-05-17,856.03,PayPal,Standard,Delivered
+50820,1196,2025-07-29,65.57,Credit Card,Standard,Returned
+50821,1140,2026-01-24,627.31,Credit Card,Standard,Delivered
+50822,1187,2024-09-20,570.75,Debit Card,Standard,Delivered
+50823,1037,2025-02-02,359.0,PayPal,Express,Delivered
+50824,1061,2025-08-01,328.89,Debit Card,Express,Delivered
+50825,1171,2024-08-13,776.42,PayPal,Express,Delivered
+50826,1124,2025-08-28,104.7,Credit Card,Express,Delivered
+50827,1198,2024-03-31,252.05,PayPal,Standard,Delivered
+50828,1039,2025-04-15,737.8,Credit Card,Express,Delivered
+50829,1184,2024-04-23,557.35,PayPal,Express,Delivered
+50830,1063,2025-01-25,145.43,Debit Card,Standard,Delivered
+50831,1046,2025-09-07,884.49,Credit Card,Express,Delivered
+50832,1088,2025-02-12,405.58,Debit Card,Express,Delivered
+50833,1011,2024-10-24,831.31,Debit Card,Standard,Delivered
+50834,1062,2026-02-15,791.96,Credit Card,Standard,Returned
+50835,1077,2025-04-12,631.94,Credit Card,Standard,Delivered
+50836,1153,2025-07-02,504.59,Debit Card,Express,Delivered
+50837,1199,2025-07-16,979.96,Debit Card,Express,Delivered
+50838,1052,2025-06-28,162.07,Debit Card,Standard,Delivered
+50839,1004,2024-06-26,730.65,Debit Card,Standard,Delivered
+50840,1059,2026-02-11,207.37,Credit Card,Express,Delivered
+50841,1072,2025-01-20,351.5,Credit Card,Standard,Delivered
+50842,1148,2025-09-02,322.52,Debit Card,Express,Delivered
+50843,1093,2024-10-19,948.1,PayPal,Standard,Returned
+50844,1063,2025-02-03,968.01,PayPal,Standard,Delivered
+50845,1054,2024-09-12,199.36,Credit Card,Express,Delivered
+50846,1117,2024-11-24,41.59,Debit Card,Standard,Cancelled
+50847,1110,2025-10-01,725.61,Debit Card,Standard,Delivered
+50848,1074,2025-10-15,429.63,Credit Card,Standard,Delivered
+50849,1107,2025-06-03,107.06,PayPal,Express,Delivered
+50850,1057,2024-08-20,690.08,PayPal,Standard,Delivered
+50851,1169,2025-12-12,554.2,PayPal,Standard,Delivered
+50852,1003,2024-10-22,980.91,Credit Card,Standard,Delivered
+50853,1120,2024-10-11,242.86,PayPal,Standard,Delivered
+50854,1006,2024-09-01,415.9,Credit Card,Standard,Delivered
+50855,1005,2025-07-02,551.69,Credit Card,Standard,Delivered
+50856,1005,2024-04-07,795.87,Debit Card,Express,Delivered
+50857,1054,2024-08-31,557.86,PayPal,Express,Delivered
+50858,1047,2025-05-22,620.64,Credit Card,Standard,Returned
+50859,1177,2025-11-13,241.62,PayPal,Express,Delivered
+50860,1009,2026-01-24,849.98,PayPal,Express,Delivered
+50861,1099,2024-05-30,440.06,Debit Card,Standard,Delivered
+50862,1020,2024-06-17,158.14,PayPal,Express,Delivered
+50863,1122,2024-09-17,670.9,Debit Card,Express,Delivered
+50864,1061,2025-10-06,231.77,Credit Card,Express,Delivered
+50865,1123,2026-03-22,115.61,PayPal,Express,Returned
+50866,1163,2024-04-05,864.75,Credit Card,Express,Returned
+50867,1178,2025-02-07,470.96,PayPal,Express,Delivered
+50868,1082,2024-04-01,754.3,Credit Card,Express,Delivered
+50869,1062,2025-07-27,304.78,PayPal,Express,Delivered
+50870,1145,2024-08-27,791.23,PayPal,Standard,Delivered
+50871,1003,2025-01-18,129.7,PayPal,Standard,Delivered
+50872,1160,2024-10-17,368.85,PayPal,Express,Delivered
+50873,1013,2024-04-03,978.5,PayPal,Express,Delivered
+50874,1120,2024-12-19,798.11,PayPal,Standard,Delivered
+50875,1125,2024-10-05,507.31,PayPal,Express,Delivered
+50876,1089,2025-08-16,352.98,PayPal,Express,Returned
+50877,1073,2024-10-14,874.69,PayPal,Standard,Delivered
+50878,1068,2025-12-10,553.95,Credit Card,Standard,Delivered
+50879,1142,2024-06-25,763.26,Debit Card,Standard,Delivered
+50880,1101,2025-03-29,759.03,PayPal,Express,Delivered
+50881,1098,2024-10-10,37.59,Debit Card,Express,Delivered
+50882,1011,2024-04-24,143.73,PayPal,Standard,Delivered
+50883,1105,2026-02-02,666.44,PayPal,Standard,Delivered
+50884,1184,2024-06-21,178.39,Credit Card,Express,Delivered
+50885,1067,2025-12-18,270.38,Credit Card,Standard,Delivered
+50886,1123,2024-12-28,947.71,Debit Card,Express,Delivered
+50887,1029,2025-08-15,568.98,Credit Card,Express,Delivered
+50888,1137,2025-01-06,755.71,Credit Card,Standard,Returned
+50889,1195,2024-09-18,566.82,Debit Card,Standard,Delivered
+50890,1153,2025-03-27,561.46,Credit Card,Express,Delivered
+50891,1076,2024-04-14,112.27,PayPal,Standard,Delivered
+50892,1170,2024-08-22,356.79,Debit Card,Standard,Cancelled
+50893,1009,2024-06-09,296.78,Debit Card,Standard,Delivered
+50894,1040,2025-04-28,402.91,PayPal,Standard,Delivered
+50895,1025,2024-07-13,802.38,Credit Card,Express,Delivered
+50896,1005,2025-05-31,384.49,Debit Card,Express,Delivered
+50897,1139,2024-09-17,462.66,Debit Card,Express,Delivered
+50898,1187,2024-12-06,409.43,PayPal,Express,Delivered
+50899,1124,2025-03-24,111.54,PayPal,Standard,Cancelled
+50900,1038,2025-09-30,452.25,Credit Card,Standard,Delivered
+50901,1072,2024-08-26,211.7,Debit Card,Express,Delivered
+50902,1133,2025-07-14,202.99,Credit Card,Express,Delivered
+50903,1176,2025-03-20,112.16,Credit Card,Standard,Delivered
+50904,1090,2025-08-18,369.54,PayPal,Express,Returned
+50905,1146,2024-06-23,762.33,Debit Card,Express,Delivered
+50906,1198,2024-12-03,290.91,Debit Card,Standard,Delivered
+50907,1037,2026-02-06,326.1,Debit Card,Express,Delivered
+50908,1060,2026-02-13,649.82,PayPal,Standard,Delivered
+50909,1176,2024-06-28,211.92,PayPal,Standard,Delivered
+50910,1028,2024-12-19,899.02,PayPal,Express,Delivered
+50911,1197,2026-03-03,529.79,PayPal,Standard,Returned
+50912,1081,2026-01-19,458.65,PayPal,Express,Returned
+50913,1114,2025-01-19,566.66,Debit Card,Standard,Delivered
+50914,1040,2025-03-30,182.71,Credit Card,Express,Cancelled
+50915,1045,2025-05-15,621.2,Debit Card,Express,Delivered
+50916,1062,2025-04-05,375.84,Credit Card,Express,Delivered
+50917,1093,2025-07-19,899.24,PayPal,Standard,Delivered
+50918,1115,2025-06-27,185.48,Credit Card,Standard,Delivered
+50919,1186,2025-06-23,516.91,Debit Card,Express,Delivered
+50920,1067,2025-06-03,606.15,Debit Card,Standard,Delivered
+50921,1056,2024-11-18,52.72,Credit Card,Express,Delivered
+50922,1040,2024-10-26,376.42,PayPal,Express,Delivered
+50923,1098,2025-09-19,737.98,PayPal,Standard,Delivered
+50924,1040,2024-04-10,823.97,Debit Card,Express,Delivered
+50925,1091,2024-04-24,326.9,Credit Card,Standard,Delivered
+50926,1033,2025-07-23,802.62,PayPal,Express,Delivered
+50927,1006,2025-09-24,968.4,PayPal,Standard,Delivered
+50928,1147,2025-05-29,859.74,Debit Card,Express,Delivered
+50929,1080,2025-12-17,135.29,PayPal,Express,Returned
+50930,1168,2024-10-07,744.94,Credit Card,Standard,Delivered
+50931,1092,2024-03-29,333.27,Debit Card,Express,Delivered
+50932,1097,2025-01-20,988.65,Debit Card,Express,Returned
+50933,1059,2024-11-29,495.65,Credit Card,Standard,Delivered
+50934,1059,2026-03-09,139.99,Debit Card,Express,Delivered
+50935,1048,2026-02-22,730.68,PayPal,Standard,Delivered
+50936,1169,2024-04-07,336.55,PayPal,Express,Returned
+50937,1013,2025-09-28,997.14,Credit Card,Standard,Delivered
+50938,1107,2025-05-12,980.19,PayPal,Express,Delivered
+50939,1045,2025-06-12,663.01,Credit Card,Express,Delivered
+50940,1089,2024-06-21,147.23,Credit Card,Express,Delivered
+50941,1181,2024-05-12,693.12,PayPal,Standard,Delivered
+50942,1170,2024-11-06,111.17,Credit Card,Standard,Delivered
+50943,1100,2025-05-09,48.78,PayPal,Standard,Delivered
+50944,1191,2026-03-11,826.5,Debit Card,Standard,Returned
+50945,1155,2024-12-06,225.56,Debit Card,Express,Delivered
+50946,1166,2024-06-21,391.45,Credit Card,Express,Delivered
+50947,1188,2024-09-17,973.99,PayPal,Standard,Returned
+50948,1007,2024-10-02,350.1,PayPal,Standard,Delivered
+50949,1133,2024-04-12,310.56,Debit Card,Standard,Delivered
+50950,1045,2025-03-10,919.84,Debit Card,Express,Delivered
+50951,1058,2025-11-26,128.53,PayPal,Standard,Returned
+50952,1031,2024-08-29,764.39,Credit Card,Standard,Delivered
+50953,1023,2024-04-27,988.3,Debit Card,Express,Delivered
+50954,1170,2025-03-10,903.27,Credit Card,Express,Returned
+50955,1138,2024-11-10,658.63,Credit Card,Standard,Delivered
+50956,1160,2025-05-15,327.78,Debit Card,Express,Returned
+50957,1107,2025-09-03,269.24,Credit Card,Standard,Cancelled
+50958,1181,2025-02-25,822.87,Credit Card,Express,Delivered
+50959,1158,2024-07-19,882.23,PayPal,Standard,Delivered
+50960,1039,2026-01-19,534.93,Credit Card,Standard,Delivered
+50961,1159,2025-08-13,259.45,PayPal,Standard,Delivered
+50962,1082,2025-04-22,130.68,Debit Card,Standard,Delivered
+50963,1100,2025-03-09,105.44,Debit Card,Express,Delivered
+50964,1002,2024-10-17,724.7,PayPal,Express,Returned
+50965,1077,2025-12-10,431.72,Debit Card,Express,Delivered
+50966,1012,2024-06-24,907.25,Credit Card,Express,Delivered
+50967,1039,2024-10-28,744.88,Credit Card,Standard,Returned
+50968,1194,2025-03-22,207.44,Credit Card,Standard,Cancelled
+50969,1013,2025-02-20,621.5,Debit Card,Express,Delivered
+50970,1046,2026-01-05,446.8,Credit Card,Express,Cancelled
+50971,1155,2024-05-18,585.7,Debit Card,Express,Delivered
+50972,1113,2025-01-09,743.31,Credit Card,Express,Returned
+50973,1017,2024-10-16,810.07,PayPal,Express,Delivered
+50974,1104,2025-02-16,846.86,Debit Card,Standard,Delivered
+50975,1098,2025-02-17,268.9,Debit Card,Standard,Delivered
+50976,1188,2025-05-17,50.49,Credit Card,Standard,Delivered
+50977,1192,2025-01-06,744.51,Debit Card,Express,Delivered
+50978,1088,2025-02-16,124.22,Debit Card,Express,Delivered
+50979,1109,2024-06-09,328.62,PayPal,Express,Delivered
+50980,1163,2024-05-31,23.74,PayPal,Express,Returned
+50981,1070,2024-04-20,688.04,Credit Card,Standard,Delivered
+50982,1158,2025-03-17,183.79,PayPal,Standard,Delivered
+50983,1199,2024-10-29,662.18,Credit Card,Express,Delivered
+50984,1074,2025-08-14,991.91,Credit Card,Standard,Delivered
+50985,1063,2024-11-22,91.22,Credit Card,Standard,Returned
+50986,1156,2024-12-02,95.54,Debit Card,Express,Returned
+50987,1060,2026-02-15,353.57,PayPal,Express,Delivered
+50988,1079,2024-09-12,869.06,Credit Card,Express,Delivered
+50989,1037,2024-10-27,231.22,PayPal,Express,Delivered
+50990,1022,2024-08-22,373.17,Credit Card,Express,Delivered
+50991,1196,2025-11-28,87.14,PayPal,Express,Returned
+50992,1148,2024-05-23,767.89,PayPal,Standard,Delivered
+50993,1096,2026-02-09,420.14,Credit Card,Standard,Delivered
+50994,1068,2026-01-05,764.06,Debit Card,Express,Delivered
+50995,1192,2026-01-14,905.54,PayPal,Standard,Delivered
+50996,1017,2024-07-25,248.11,Debit Card,Express,Cancelled
+50997,1012,2025-11-27,811.25,Debit Card,Express,Delivered
+50998,1150,2024-12-17,77.91,Credit Card,Express,Delivered
+50999,1145,2024-10-04,900.87,Credit Card,Express,Delivered
+51000,1138,2024-04-13,657.75,Credit Card,Standard,Delivered
