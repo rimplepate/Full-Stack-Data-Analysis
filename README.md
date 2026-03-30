@@ -1,5 +1,4 @@
-# Full-Stack-Data-Analysis
-E-Commerce Customer & Revenue Intelligence Dashboard
+# E-Commerce Customer & Revenue Intelligence Dashboard
 
 Project Overview:
 This project is an end-to-end data analytics solution for an e-commerce business, designed to analyze customer behavior, product performance, sales trends, and marketing effectiveness. The goal is to provide actionable insights that can drive revenue growth, optimize marketing spend, and improve customer retention.
