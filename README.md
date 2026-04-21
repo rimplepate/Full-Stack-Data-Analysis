@@ -69,4 +69,4 @@ Perform A/B testing analysis for marketing optimization
 
 📊 Dashboard
 
-👉 https://public.tableau.com/views/FullStackDataAnalysis/SalesTrendsOverTime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+👉 https://public.tableau.com/views/FullStackDataAnalysis/Dashboardinsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
